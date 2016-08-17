@@ -1,0 +1,29 @@
+name: Vlint
+favicon: null
+layout_spectrum: 0.11412342800758779
+typography_spectrum: 0.5945009735878557
+title: Visuele communicatie door Floris van Lint
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#e09a2e'
+    - '#d5dfec'
+    - '#476cce'
+    - '#294d71'
+    - '#7d94ad'
+  brandStrength: 0.8245728437323123
+  lightness: 0.15528186573646963
+  saturation: 0.8069313154555857
+  rhythmicContrast: 0.0003854217939078808
+purpose: []
